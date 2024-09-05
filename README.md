@@ -23,4 +23,9 @@ PYCOACH - https://youtu.be/g_j6ILT-X0k?si=LZgjx-WZgJ_AsCLv
 Real Python - https://realpython.com/python-send-email/
 
 
+# Contributors 
+
+- Jamin Nicole A. Omar
+- Daisyrie Hilario
+
 
