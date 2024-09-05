@@ -1,6 +1,6 @@
 # Email-Sender---For-Survey
 
-This application automates the the sending email to multiple recipient. It is for the researcher in distributing online survey to a list of participants,  and specially focusing on gathering feedback or insights from the student or other target group. The link of the survey and messages are in the structure of the html which provide a professional and engaging format.
+This application automates the sending email to multiple recipient. It is for the researcher in distributing online survey to a list of participants,  and specially focusing on gathering feedback or insights from the student or other target group. The link of the survey and messages are in the structure of the html which provide a professional and engaging format.
 
 The main objective is to simplify the survey distribution process by reading recipient details from an Excel file and sending personalized emails in bulk. The custom message and survey link are configurable, allowing flexibility for different survey campaigns.
 
